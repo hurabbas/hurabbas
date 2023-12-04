@@ -1,0 +1,35 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node modules if you're using any node-based tooling
+node_modules/
+
+# Ignore build output directories if you have any compilation step
+/dist
+/build
+
+# Ignore files related to your personal IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore environment files that may contain sensitive information
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore commonly generated files that are not needed in version control
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.tar
+*.zip
+*.gz
+*.rar
+*.7z
