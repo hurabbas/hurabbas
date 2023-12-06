@@ -11,6 +11,7 @@ node_modules/
 # Ignore files related to your personal IDE/editor settings
 .vscode/
 .idea/
+.obsidian
 *.sublime-workspace
 *.sublime-project
 
