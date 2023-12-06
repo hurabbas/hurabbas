@@ -164,5 +164,4 @@ This combination of technical development skills, DevOps knowledge, and proficie
 </a>
 </p>
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
-📧 : [hurabbas.dev@gmail.com](hurabbas.dev@gmail.com)
 
