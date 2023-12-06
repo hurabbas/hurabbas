@@ -11,7 +11,7 @@ I am always on the lookout for challenging opportunities that push the boundarie
 ## Tech Stacks/ Skills 🔥
 
 <details>
-<summary>Backend Development</summary>
+<summary> <strong>Backend Development</strong></summary>
 <p>
 I am dynamic and seasoned backend developer, my expertise spans a wide array of technologies, making me adept at building robust, scalable, and efficient web applications and services. My core strength lies in JavaScript and TypeScript, where I utilize NodeJS, Express, and NestJS to engineer powerful server-side solutions. I am also skilled in Java and Spring Boot, which enables me to develop and manage complex, enterprise-grade backend systems with ease.
 </p>
@@ -39,7 +39,7 @@ This diverse technological proficiency is backed by a commitment to best practic
 </details>
 
 <details>
-<summary>Frontend Development</summary>
+<summary><strong>Frontend Development</strong></summary>
 <p>  
 As a frontend engineer, my skill set is anchored in HTML, CSS, and SCSS, enabling me to design responsive and aesthetically pleasing web layouts. I am proficient in JavaScript, which forms the basis of my development work, particularly in creating interactive and dynamic web applications. My expertise extends to ReactJs and NextJs, tools that I leverage to build user-friendly interfaces and improve web performance through server-side rendering.
 </p>
@@ -66,7 +66,7 @@ In mobile app development, I utilize React Native to create cross-platform appli
 </details>
 
 <details>
-<summary>Blockchain Development</summary>
+<summary><strong>Blockchain Development</strong></summary>
 <p>
 As a versatile developer with a unique blend of frontend, backend, and blockchain expertise, I have a proven track record of developing innovative blockchain applications. My frontend skills in HTML, CSS, SCSS, JavaScript, ReactJs, NextJs, and React Native enable me to create intuitive and engaging user interfaces for decentralized applications (dApps). Combined with my backend proficiency in NodeJS, Java, Spring Boot, and various databases, I can build robust, scalable, and secure backend systems that underpin the blockchain applications.
 </p>
@@ -94,7 +94,7 @@ My approach to blockchain development is holistic, considering both the technica
 </details>
 
 <details>
-<summary>DevOps, Cloud, Infrastructure</summary>
+<summary><strong>DevOps, Cloud, Infrastructure</strong></summary>
 <p>As a well-rounded software developer with extensive skills in both development and DevOps, I bring a comprehensive approach to building and deploying high-quality software solutions. My expertise spans a range of cloud platforms and technologies, including AWS and GCP, where I adeptly manage cloud infrastructure, ensuring scalable, reliable, and cost-effective solutions.
 </p>
 <p>
@@ -124,7 +124,7 @@ For deployment and hosting, I am experienced in using Heroku, Netlify, and Verce
 </details>
 
 <details>
-<summary>Other Tools & Services</summary>
+<summary><strong>Other Tools & Services</strong></summary>
 <p>
 As a multifaceted software engineer, my technical prowess extends beyond development and DevOps into a broad spectrum of tools and services that enhance project management, design, and collaboration. My proficiency in project management tools such as Jira, ClickUp, Trello, and Asana demonstrates my ability to efficiently manage and streamline development workflows, ensuring that projects are delivered on time and within scope. These tools also reflect my skill in team collaboration and task organization, enabling me to maintain clear communication and project visibility.
 </p>
