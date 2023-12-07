@@ -156,12 +156,12 @@ This combination of technical development skills, DevOps knowledge, and proficie
 <a href="https://www.linkedin.com/in/hurabbas/" >
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  height="50px" width="50px"/>
 </a>
-<a href="YOUR_LINK_HERE">
+<a href="https://discordapp.com/users/839019500565299240">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"  height="50px" width="50px"/>
 </a>
-<a href="YOUR_LINK_HERE">
+<a href="https://twitter.com/BitwiseHur">
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  height="50px" width="50px"/>
 </a>
 </p>
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
-<p><a href="mailto:hurabbas.dev@gmail.com" style="text-decoration: underline; font-style: italic;">📧 : hurabbas.dev@gmail.com </a> </p>
+<p><a href="mailto:hurabbas.dev@gmail.com">📧 : hurabbas.dev@gmail.com </a> </p>
