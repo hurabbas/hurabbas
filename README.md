@@ -13,7 +13,7 @@ I am always on the lookout for challenging opportunities that push the boundarie
 <details>
 <summary> <strong>Backend Development</strong></summary>
 <p>
-I am dynamic and seasoned backend developer, my expertise spans a wide array of technologies, making me adept at building robust, scalable, and efficient web applications and services. My core strength lies in JavaScript and TypeScript, where I utilize NodeJS, Express, and NestJS to engineer powerful server-side solutions. I am also skilled in Java and Spring Boot, which enables me to develop and manage complex, enterprise-grade backend systems with ease.
+I have dynamic skillset as a backend developer, my expertise spans a wide array of technologies, making me adept at building robust, scalable, and efficient web applications and services. My core strength lies in JavaScript and TypeScript, where I utilize NodeJS, Express, and NestJS to engineer powerful server-side solutions. I am also skilled in Java and Spring/ Spring Boot, which enables me to develop and manage complex, enterprise-grade backend systems with ease.
 </p>
 <p>
 In the realm of databases, I am proficient in both SQL and NoSQL technologies. My experience with MongoDB, PostgreSQL, and MySQL allows me to design and implement versatile database solutions tailored to the specific needs of each project. Further enhancing my database skills are tools like TypeORM, Mongoose, and Prisma, through which I ensure seamless integration and effective management of database operations within applications.
@@ -68,7 +68,7 @@ In mobile app development, I utilize React Native to create cross-platform appli
 <details>
 <summary><strong>Blockchain Development</strong></summary>
 <p>
-As a versatile developer with a unique blend of frontend, backend, and blockchain expertise, I have a proven track record of developing innovative blockchain applications. My frontend skills in HTML, CSS, SCSS, JavaScript, ReactJs, NextJs, and React Native enable me to create intuitive and engaging user interfaces for decentralized applications (dApps). Combined with my backend proficiency in NodeJS, Java, Spring Boot, and various databases, I can build robust, scalable, and secure backend systems that underpin the blockchain applications.
+I have a proven track record of developing innovative blockchain applications. My frontend skills in HTML, CSS, SCSS, JavaScript, ReactJs, NextJs, and React Native enable me to create intuitive and engaging user interfaces for decentralized applications (dApps). Combined with my backend proficiency in NodeJS, Java, Spring Boot, and various databases, I can build robust, scalable, and secure backend systems that underpin the blockchain applications.
 </p>
 <p>
 My blockchain development expertise is centered around Solidity for smart contract development, which is the cornerstone of creating decentralized solutions on platforms like Ethereum. I have extensive experience in developing and deploying smart contracts that are secure, efficient, and optimized for various use cases. My knowledge extends to blockchain platforms like Stellar and Ripple, which allows me to leverage their unique features for creating specialized blockchain solutions, such as digital wallets, cryptocurrency exchanges, NFT platforms, and security token offerings.
@@ -126,7 +126,7 @@ For deployment and hosting, I am experienced in using Heroku, Netlify, and Verce
 <details>
 <summary><strong>Other Tools & Services</strong></summary>
 <p>
-As a multifaceted software engineer, my technical prowess extends beyond development and DevOps into a broad spectrum of tools and services that enhance project management, design, and collaboration. My proficiency in project management tools such as Jira, ClickUp, Trello, and Asana demonstrates my ability to efficiently manage and streamline development workflows, ensuring that projects are delivered on time and within scope. These tools also reflect my skill in team collaboration and task organization, enabling me to maintain clear communication and project visibility.
+My technical prowess extends beyond development and DevOps into a broad spectrum of tools and services that enhance project management, design, and collaboration. My proficiency in project management tools such as Jira, ClickUp, Trello, and Asana demonstrates my ability to efficiently manage and streamline development workflows, ensuring that projects are delivered on time and within scope. These tools also reflect my skill in team collaboration and task organization, enabling me to maintain clear communication and project visibility.
 </p>
 <p>
 In the realm of design, I am adept in using Adobe Xd, Photoshop, Illustrator, and Figma. My experience with these design tools allows me to contribute to the UI/UX aspect of projects, creating visually appealing and user-friendly designs. Whether it's wireframing in Adobe Xd, image editing in Photoshop, vector graphics in Illustrator, or collaborative design in Figma, I have the ability to bring creative ideas to life and enhance the user experience of the applications I develop.
