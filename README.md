@@ -41,10 +41,10 @@ This diverse technological proficiency is backed by a commitment to best practic
 <details>
 <summary><strong>Frontend Development</strong></summary>
 <p>  
-As a frontend engineer, my skill set is anchored in HTML, CSS, and SCSS, enabling me to design responsive and aesthetically pleasing web layouts. I am proficient in JavaScript, which forms the basis of my development work, particularly in creating interactive and dynamic web applications. My expertise extends to ReactJs and NextJs, tools that I leverage to build user-friendly interfaces and improve web performance through server-side rendering.
+In frontend development, my skill set is anchored in HTML, CSS, and JavaScript/ TypeScript, enabling me to design responsive and aesthetically pleasing web layouts. I am proficient in JavaScript/ TypeScript, which forms the basis of my development work, particularly in creating interactive and dynamic web applications. My expertise extends to ReactJs and NextJs, tools that I leverage to build user-friendly interfaces and improve web performance through server-side rendering.
 </p>
 <p>
-In mobile app development, I utilize React Native to create cross-platform applications that offer a native-like user experience. My ability to manage complex application states is enhanced through ReduxJs, and I integrate ApolloGraphQL for efficient data handling in my projects. Additionally, my experience with ElectronJs allows me to develop cross-platform desktop applications using web technologies. My focus is always on developing intuitive, user-centric applications that prioritize seamless user experience and functionality.
+In mobile app development, I utilize React Native to create cross-platform applications that offer a native-like user experience. Additionally, my experience with ElectronJs allows me to develop cross-platform desktop applications using web technologies. My focus is always on developing intuitive, user-centric applications that prioritize seamless user experience and functionality.
 </p>
 <p><strong>Frontend Skills</strong>:</p>
 <p>
