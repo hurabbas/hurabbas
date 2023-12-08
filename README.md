@@ -13,7 +13,7 @@ I am always on the lookout for challenging opportunities that push the boundarie
 <details>
 <summary> <strong>Backend Development</strong></summary>
 <p>
-I have dynamic skillset as a backend developer, my expertise spans a wide array of technologies, making me adept at building robust, scalable, and efficient web applications and services. My core strength lies in JavaScript and TypeScript, where I utilize NodeJS, Express, and NestJS to engineer powerful server-side solutions. I am also skilled in Java and Spring/ Spring Boot, which enables me to develop and manage complex, enterprise-grade backend systems with ease.
+I have dynamic skillset as a backend developer, my expertise spans a wide array of technologies, making me adept at building robust, scalable, and efficient web applications and services. My core strength lies in JavaScript and TypeScript, where I utilize NodeJS, Express, and NestJS to engineer powerful server-side solutions. I am also skilled in Python, Java and Spring/ Spring Boot, which enables me to develop and manage complex, enterprise-grade backend systems with ease.
 </p>
 <p>
 In the realm of databases, I am proficient in both SQL and NoSQL technologies. My experience with MongoDB, PostgreSQL, and MySQL allows me to design and implement versatile database solutions tailored to the specific needs of each project. Further enhancing my database skills are tools like TypeORM, Mongoose, and Prisma, through which I ensure seamless integration and effective management of database operations within applications.
@@ -30,6 +30,7 @@ This diverse technological proficiency is backed by a commitment to best practic
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
