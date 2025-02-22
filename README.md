@@ -160,7 +160,7 @@ This combination of technical development skills, DevOps knowledge, and proficie
 <a href="https://discordapp.com/users/839019500565299240">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif"  height="50px" width="50px"/>
 </a>
-<a href="https://twitter.com/devhur">
+<a href="https://twitter.com/thehurabbas">
 <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  height="50px" width="50px"/>
 </a>
 </p>
