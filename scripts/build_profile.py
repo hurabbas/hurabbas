@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 """Builds the profile infographic and contact buttons in GitHub's own (Primer) styling.
 
-Outputs, for each screen size and theme:
-  assets/profile-{desktop,tablet,mobile}-{light,dark}.svg   the infographic
-  assets/btn-{email,linkedin}-{light,dark}.svg              contact buttons, linked from README.md
+Outputs:
+  assets/profile-{desktop,tablet,mobile}.svg   the infographic, one layout per screen size
+  assets/btn-{email,linkedin}.svg              contact buttons, linked from README.md
 
-README.md picks the right file with <picture> media queries (screen width + colour scheme).
+Each SVG switches between GitHub's light and dark colours itself, with a prefers-color-scheme
+media query inside the file. README.md's <picture> only chooses by screen width: GitHub's own
+theme script rewrites any <source> that mentions prefers-color-scheme, which breaks width rules.
 
 Edit CONTENT below, then run:  python3 scripts/build_profile.py
 GitHub renders SVGs as images, so everything (including line wrapping) is laid out here,
@@ -373,12 +375,22 @@ def button(kind, text, style, t):
             f'<text x="36" y="21" font-size="14" font-weight="500" fill="{fg}">{e(text)}</text></svg>\n')
 
 
+def themed(svg, buttons=False):
+    """Adds dark-mode overrides to an SVG drawn in light colours: each light token maps to its dark one.
+    Buttons and the infographic share some light values, so each only maps its own tokens."""
+    light, dark = THEMES["light"], THEMES["dark"]
+    own = lambda k: k.startswith(("btn_", "primary_")) == buttons
+    pairs = {light[k]: dark[k] for k in light if own(k) and light[k] != dark[k]}
+    assert len(pairs) == len({light[k] for k in light if own(k) and light[k] != dark[k]})
+    rules = " ".join(f'[fill="{a}"] {{ fill: {b}; }} [stroke="{a}"] {{ stroke: {b}; }}' for a, b in pairs.items())
+    return svg.replace("</style>", f"@media (prefers-color-scheme: dark) {{ {rules} }}</style>", 1)
+
+
 if __name__ == "__main__":
+    light = THEMES["light"]
     for size, width in SIZES.items():
         W = width
-        for name, theme in THEMES.items():
-            (OUT / f"profile-{size}-{name}.svg").write_text(build(theme, size), encoding="utf-8")
-    for name, theme in THEMES.items():
-        for kind, text, style in BUTTONS:
-            (OUT / f"btn-{kind}-{name}.svg").write_text(button(kind, text, style, theme), encoding="utf-8")
+        (OUT / f"profile-{size}.svg").write_text(themed(build(light, size)), encoding="utf-8")
+    for kind, text, style in BUTTONS:
+        (OUT / f"btn-{kind}.svg").write_text(themed(button(kind, text, style, light), buttons=True), encoding="utf-8")
     print("wrote", ", ".join(sorted(p.name for p in OUT.glob("*.svg"))))
